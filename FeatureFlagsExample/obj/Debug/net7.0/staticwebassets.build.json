@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BGJatKuvlIdth/FfncvyKpObiMFzX2s+ZPgAlEfcx0Y=",
+  "Source": "FeatureFlagsExample",
+  "BasePath": "_content/FeatureFlagsExample",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
