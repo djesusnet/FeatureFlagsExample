@@ -3,6 +3,6 @@ Este repositório é um exemplo prático de como implementar e utilizar Feature 
 
 ## Principais Destaques
 Demonstração clara de como incorporar Feature Flags em diferentes partes de um aplicativo.
-Utilização de uma biblioteca específica (insira aqui o nome da biblioteca/framework) para simplificar a implementação.
+Utilização de uma biblioteca específica Microsoft.FeatureManagement para simplificar a implementação.
 Exemplos de configuração e alteração dinâmica de flags.
 Diretrizes para melhores práticas ao trabalhar com Feature Flags.
